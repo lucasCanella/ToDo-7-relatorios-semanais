@@ -1,4 +1,4 @@
-# ToDo-7
+# To Do 7: Relatórios Semanais
 
 &rarr; Uma determinada loja deseja produzir relatórios semanais com ganhos e despesas. O gerente da loja te contratou para gerar um relatório de uma semana para mostrar ao dono da loja como a análise dos dados pode ser útil para eles. Para isso, ele te enviou uma tabela de exemplo das despesas de uma semana: 
 
